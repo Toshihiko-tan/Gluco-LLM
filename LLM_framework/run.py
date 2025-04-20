@@ -53,8 +53,8 @@ from data_formatter.base import DataFormatter
 dataset_list = ['iglu', 'dubosson', 'hall', 'colas', 'weinstock']
 diabetes_map = {"iglu": 2, "dubosson": 1, "hall": 0, "colas": 0, "weinstock": 1}
 
-HORIZON  = 12
-N_RUNS   = 3
+HORIZON = 12
+N_RUNS = 5
 HIST_LEN = args.length
 PRED_COLS = [f"pred_{i+1}" for i in range(HORIZON)]
 TRUE_COLS = [f"true_{i+1}" for i in range(HORIZON)]
