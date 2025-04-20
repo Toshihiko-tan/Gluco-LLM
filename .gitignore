@@ -163,4 +163,4 @@ cython_debug/
 
 *.csv
 raw_data/raw_data/*.csv
-results_*/
+results_*/.DS_Store
