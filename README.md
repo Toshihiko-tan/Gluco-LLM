@@ -13,9 +13,9 @@ A poster based on preliminary results was awarded **Best Poster** at the 2025 Mi
 
 ## Repository Contents
 
-- **Honors_Thesis.pdf**  
+- **Honors_Thesis_Junyan_Tan(Samuel).pdf**  
   The full honors thesis document.
-- **poster.pdf**  
+- **GlucoLLM___Poster.pdf**  
   The award‑winning poster from MSSISS 2025.
 - **raw_data/raw_data.zip**  
   Pre‑processed, publicly available CGM datasets.
