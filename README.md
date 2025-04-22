@@ -31,18 +31,16 @@ A poster based on preliminary results was awarded **Best Poster** at the 2025 Mi
   - `linear.py`
   - `transformer.py`
   - `latent_ode/` (Latent ODE implementation)
-  - `model.py` (training/validation/testing orchestrator)
+  - `latentode.py`
 - **utils/**  
-  Helper functions (metrics calculation, plotting, etc.).
+  Darts Helper functions
 - **LLM_framework/**  
-  Direct‑Prompt forecasting implementation (`run.py`).
+  Direct‑Prompt forecasting implementation
 - **RAG/**  
-  Retrieval‑Augmented Generation extensions (`distance.py`).
+  Retrieval‑Augmented Generation extensions
 - **requirements.txt**  
   Python dependencies.
-- **.env.example**  
-  Template for storing API keys for LLM services.
-
+  
 ---
 
 ## Dependencies
@@ -57,7 +55,7 @@ A poster based on preliminary results was awarded **Best Poster** at the 2025 Mi
   pip install torchdiffeq
   ```
 - **LLM API keys**  
-  Create a `.env` file based on `.env.example`:
+  Create a `.env` file in the repository:
   ```text
   OPENAI_API_KEY=your_openai_key
   DEEPSEEK_API_KEY=your_deepseek_key
