@@ -1,6 +1,6 @@
 # Evaluating the Zero‑Shot Predictive Ability of Large Language Models for Continuous Glucose Monitoring Data
 
-This repository contains the code, thesis, and poster for my Honors Thesis, **“Evaluating the Zero‑Shot Predictive Ability of Large Language Models for Continuous Glucose Monitoring Data,”** submitted in partial fulfillment of the requirements for Honors in Data Science at the University of Michigan (Winter ’25).
+This repository contains the code, thesis, and poster for my Honors Thesis, **“Evaluating the Zero‑Shot Predictive Ability of Large Language Models for Continuous Glucose Monitoring Data,”** submitted in partial fulfillment of the requirements for Honors in Data Science at the University of Michigan (Winter ’25). This thesis has been archived in the University of Michigan Library’s Deep Blue Repository and can be accessed at https://dx.doi.org/10.7302/27396.
 
 A poster based on preliminary results was awarded **Best Poster** at the 2025 Michigan Student Symposium for Interdisciplinary Statistical Sciences (MSSISS 2025). Both the poster and the completed thesis PDF are included here.
 
